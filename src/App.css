@@ -1,31 +1,7 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-.heart {
-  color: #ff0000;
-}
-
-.small {
-  font-size: 0.75rem;
-}
+.backgroundImage {
+    background-image: url('https://6amcity.brightspotcdn.com/dims4/default/fcd95ee/2147483647/strip/true/crop/1920x1081+0+2/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-sixam-city.s3.us-east-2.amazonaws.com%2Fbrightspot%2F27%2F72%2Fe63b3f2ac7e3dc33dc9c07813a21%2Fepicgamesnode-home-battleroyale-bg-1920x1085-f8259c7b864b733c175b31934ebc30ef17aff602.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  

@@ -1,0 +1,9 @@
+.container{
+    justify-content: center;
+}
+
+.obraz{
+    scale: 50%;
+    margin-top: -150px;
+    margin-left: -60px;
+}
